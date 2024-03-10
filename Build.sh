@@ -1,1 +1,1 @@
-MVN clean install
+gradle clean install

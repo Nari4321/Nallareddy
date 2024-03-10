@@ -1,0 +1,8 @@
+environment:
+  name: DEV
+  identifier: DEV
+  tags: {}
+  type: Production
+  orgIdentifier: default
+  projectIdentifier: default_project
+  variables: []
